@@ -220,10 +220,11 @@ In summary, CMG stock is more prone to price fluctuations during this period tha
 YUM and SBUX closing prices are relatively steady, while DRI and MCD shows a bit more price changes.
 
 ### Question 6: The Correlation Analysis helps us understand how the stock prices of each company are related. What are the findings and what does this tell us?
-![corr_analysis](https://github.com/KHard2Bme/Python-Project-Template/assets/146769989/95c86d97-1d8e-4cc7-8b8f-e1329dfafb00)
+![corr_analysis](https://github.com/KHard2Bme/Quantitative-Analysis-of-The-Stock-Market/assets/146769989/4f8ecb54-7c38-4778-a1fe-b556607e064c)
+
 
  From the heatmap, we can observe that there are varying degrees of positive and negative correlations between the stock prices, with some pairs showing stronger correlations than others.
-- MCD and YUM have a relatively higher positive correlation than any other stocks (0.82).
+- MCD and YUM have a relatively higher positive correlation than any other stocks (0.81).
 - This makes perfect sense since both have very similar closing price trends and patterns over the past year 
 
 
