@@ -223,7 +223,7 @@ YUM and SBUX closing prices are relatively steady, while DRI and MCD shows a bit
 ![corr_analysis](https://github.com/KHard2Bme/Python-Project-Template/assets/146769989/95c86d97-1d8e-4cc7-8b8f-e1329dfafb00)
 
  From the heatmap, we can observe that there are varying degrees of positive and negative correlations between the stock prices, with some pairs showing stronger correlations than others.
-- MCD and YUM have a relatively higher positive correlation than any other stocks (0.81).
+- MCD and YUM have a relatively higher positive correlation than any other stocks (0.82).
 - This makes perfect sense since both have very similar closing price trends and patterns over the past year 
 
 
