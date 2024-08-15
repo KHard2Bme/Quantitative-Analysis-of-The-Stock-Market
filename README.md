@@ -49,7 +49,7 @@ We will also compare the performance of the selected stocks against relevant ben
 
 
 
->note: Statistical concepts will be shown in detail within Jupyter notebook.
+>note: Statistical concepts will be shown in detail within Quantitative Analysis of Stock Market.ipynb notebook.
 
 
 # Python Libraries Used
@@ -166,7 +166,7 @@ DRI (Darden Restaurants Inc.)
 
 
 The above plot displays the time series of the closing prices for each stock (MCD, SBUX, CMG, YUM, DRI) over a one year observed period. 
-Let us next take a closer look at each stock individually so we can make an accurate reading.
+Let us next take a closer look at each stock individually so we can make a more precise reading.
 
 ![MCD_series](https://github.com/KHard2Bme/Python-Project-Template/assets/146769989/e2d145c4-b398-41cc-8cb5-844e0834db94)
 
