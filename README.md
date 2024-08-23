@@ -70,7 +70,7 @@ For this task, I used the Yahoo finance API (yfinance) to collect real-time stoc
 ---
 In my analysis I explore and answer the following questions:
 
-1. What is the average closing price for each stock, standard deviation and how do these stocks compare?
+1. Which stock has the highest average closing price? What is the average closing price for each stock, standard deviation and how do these stocks compare?
 2. What is the closing price for each stock as of 03-19-2024?
 3. What is the minimum closing price for each stock? What trading day did this occur on?
 4. Regarding the closing price for each stock, what are the trends and patterns over a one year timeframe and how do each compare? 
@@ -83,7 +83,7 @@ In my analysis I explore and answer the following questions:
 
 # Summary of Findings
 --- 
-### Question 1: What is the average closing price for each stock, standard deviation and how do these stocks compare?
+### Question 1: Which stock has the highest average closing price? What is the average closing price for each stock, standard deviation and how do these stocks compare?
 ![describe](https://github.com/KHard2Bme/Python-Project-Template/assets/146769989/d400c6b3-5e11-47de-bd08-a1242b13c72e)
 
 
